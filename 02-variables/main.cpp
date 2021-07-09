@@ -4,6 +4,8 @@ using namespace std;
 
 int main() {
   int age = 14;
-  edad = edad 9 + 1;
-  cout << age;
+  age = age + 1;
+  char character = 'A';
+  cout << age << endl;
+  cout << character << endl;
 }
