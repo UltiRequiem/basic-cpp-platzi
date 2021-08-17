@@ -12,5 +12,5 @@ int main() {
       cout << "Bye" << endl;
       break;
     }
-  } while(true);
+  } while (true);
 }
