@@ -15,6 +15,5 @@ int main() {
     break;
   default:
     cout << "Incorrect." << endl;
-    break;
   }
 }
